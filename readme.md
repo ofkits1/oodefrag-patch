@@ -1,4 +1,3 @@
-
 # O&O Defrag Patch
 
 A lightweight DLL that removes license restrictions from O&O Defrag.
